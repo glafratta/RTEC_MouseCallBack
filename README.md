@@ -1,10 +1,10 @@
 # RTEC_MouseCallBack
-Reads data from a wired mouse.
+Reads data from a wired mouse. Example of event-driven programming for Glasgow University course 'Real Time Embedded Programming'.
 
-##Requirements: 
-###pthread library
+## Requirements: 
+### pthread library
 install 'sudo apt-get install pthread'
 
-##Run
+## Run
 'sudo ./getMouseCB'
 
